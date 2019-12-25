@@ -15,9 +15,10 @@ echo -e "$OKRED  (__  ) / / // // /_/ /  __/ /    $RESET"
 echo -e "$OKRED /____/_/ /_/___/ .___/\___/_/     $RESET"
 echo -e "$OKRED               /_/                 $RESET"
 echo -e "$RESET"
-echo -e "$OKORANGE + -- --=[https://xerosecurity.com$RESET"
+echo -e "$OKORANGE + -- --=[ https://xerosecurity.com$RESET"
+echo -e "$OKORANGE + -- --=[ Sn1per by @xer0dayz$RESET"
 echo ""
-echo -e "$OKGREEN + -- --=[This script will setup Ubuntu and Debian based OS's for the Sn1per installation. (Hit enter to continue): $RESET"
+echo -e "$OKGREEN + -- --=[ This script will setup Ubuntu and Debian based OS's for the Sn1per installation. (Hit enter to continue): $RESET"
 read answer
 if [ ! -f "/etc/apt/sources.list.bak" ]; then
 	cp /etc/apt/sources.list /etc/apt/sources.list.bak

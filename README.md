@@ -62,17 +62,13 @@ To obtain a Sn1per Professional license, go to https://xerosecurity.com.
 - [x] Hunter.io API integration (https://github.com/1N3/Sn1per/wiki/Hunter.io-API-Integration)
 - [x] OpenVAS API integration (https://github.com/1N3/Sn1per/wiki/OpenVAS-Integration)
 - [x] Burpsuite Professional 2.x integration (https://github.com/1N3/Sn1per/wiki/Burpsuite-Professional-2.x-Integration)
+- [x] Shodan API integration (https://github.com/1N3/Sn1per/wiki/Shodan-Integration)
 - [x] Censys API integration (https://github.com/1N3/Sn1per/wiki/Censys-API-Integration)
 - [x] Metasploit integration (https://github.com/1N3/Sn1per/wiki/Metasploit-Integration)
 
-## KALI LINUX INSTALL:
+## KALI/UBUNTU/DEBIAN/PARROT LINUX INSTALL:
 ```
 bash install.sh
-```
-
-## UBUNTU/DEBIAN/PARROT INSTALL:
-```
-sudo bash install_debian_ubuntu.sh
 ```
 
 ## DOCKER INSTALL:
@@ -192,6 +188,7 @@ https://gist.github.com/1N3/8214ec2da2c91691bcbc
 ## Help Topics
 
 - [x] Burpsuite Professional 2.x integration (https://github.com/1N3/Sn1per/wiki/Burpsuite-Professional-2.x-Integration)
+- [x] Shodan API integration (https://github.com/1N3/Sn1per/wiki/Shodan-Integration)
 - [x] Censys API integration (https://github.com/1N3/Sn1per/wiki/Censys-API-Integration)
 - [x] Hunter.io API integration (https://github.com/1N3/Sn1per/wiki/Hunter.io-API-Integration)
 - [x] Metasploit integration (https://github.com/1N3/Sn1per/wiki/Metasploit-Integration)
@@ -199,9 +196,10 @@ https://gist.github.com/1N3/8214ec2da2c91691bcbc
 - [x] Scheduled scans (https://github.com/1N3/Sn1per/wiki/Scheduled-Scans)
 - [x] Slack API integration (https://github.com/1N3/Sn1per/wiki/Slack-API-Integration)
 - [x] Sn1per Configuration Options (https://github.com/1N3/Sn1per/wiki/Sn1per-Configuration-Options)
+- [x] Plugins & Tools (https://github.com/1N3/Sn1per/wiki/Plugins-&-Tools)
 
 ## LICENSE:
-This software is free to distribute, modify and use with the condition that credit is provided to the creator (@xer0dayz @XeroSecurity) and is not for commercial use or resold and rebranded. Permission to distribute any part of the code for sale is strictly prohibited.
+This software is free to distribute and use with the condition that credit is provided to the creator (@xer0dayz @XeroSecurity), is not renamed and is not for commercial use or resold and rebranded. Permission to distribute any part of the code for sale is strictly prohibited.
 
 ## LEGAL DISCLAIMER:
 You may not rent or lease, distribute, modify, sell or transfer the software to a third party. Sn1per Community is free for distribution, and modification with the condition that credit is provided to the creator and not used for commercial use. You may not use software for illegal or nefarious purposes. No liability for consequential damages to the maximum extent permitted by all applicable laws. In no event shall XeroSecurity or any person be liable for any consequential, reliance, incidental, special, direct or indirect damages whatsoever (including without limitation, damages for loss of business profits, business interruption, loss of business information, personal injury, or any other loss) arising out of or in connection with the use or inability to use this product, even if XeroSecurity has been advised of the possibility of such damages. 
